@@ -10,7 +10,7 @@
     },
     {
       "name": "virtio-3.10.105.tgz",
-      "url": "https://github.com/MastaG/redpill-virtio/releases/download/v1.0.0/virtio-3.10.105.tgz",
+      "url": "https://github.com/RedPill-TTG/redpill-virtio/releases/download/v1.0.0/virtio-3.10.105.tgz",
       "sha256": "8a424c9ffe65ef2ac40192fdb3361529505c73c8529e2bccf50a357fe976667b",
       "packed": true
     }
